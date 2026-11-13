@@ -1,0 +1,9 @@
+{
+  "name": "brandmotion-logo-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static logo concept and animation studio",
+  "scripts": {
+    "test": "node --test tests.js"
+  }
+}

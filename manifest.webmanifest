@@ -1,0 +1,18 @@
+{
+  "name": "BrandMotion Logo Studio",
+  "short_name": "BrandMotion",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#101321",
+  "description": "Design a logo concept and preview it in motion.",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
